@@ -115,7 +115,7 @@ body{
     color: #6995D6;
     padding-top: 50px;
     border-bottom: 5px solid yellow;
-    width: 100px;
+    width: 60px;
     text-align: center;
 }
 .cse{
@@ -127,6 +127,7 @@ body{
 .cc2{
     height: 300px;
     box-shadow: 0px 0px 5px rgb(239, 236, 236);
+    border-radius: 20px;
 }
 .rasm{
     padding: 20px 0px;
@@ -230,7 +231,7 @@ body{
     height: 350px;
 }
 .h8{
-    font-size: 23px;
+    font-size: 22px;
     padding: 0px 20px;
 }
 .h9{
@@ -251,4 +252,58 @@ body{
 }
 .i{
     padding-left: 20px;
+}
+.hasht{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    display: flex;
+    gap: 70px;
+    background-color: #EAECEB;
+    padding-left: 60px;
+    height: 500px;
+    border-radius: 20px;
+}
+.v{
+    padding-top: 60px;
+}
+.j1{
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid rgb(214, 207, 207);
+}
+.j2{
+    background-color: #3771C8;
+    border-radius: 20px;
+    position: relative;
+    left: -120px;
+    color: white;
+    padding-top: 14.5px;
+    padding-bottom: 17.5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.j3{
+    width: 500px;
+    height: 500px;
+}
+.nuh{
+    margin: 0px 100px;
+    display: flex;
+    gap: 100px;
+
+}
+.k1{
+    padding-right: 30px;
+}
+.k3{
+    font-size: 25px;
+    font-weight: 500;
+}
+.kk{
+    padding-left: 80px;
+    padding-right: 50px;
+}
+.kkk{
+    padding-right: 80px;
 }
